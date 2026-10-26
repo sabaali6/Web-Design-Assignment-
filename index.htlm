@@ -1,0 +1,175 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Faiz Ahmed Faiz - My Favourite Poet</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Faiz Ahmed Faiz</h1>
+        <p>A Voice of Love, Hope and Revolution</p>
+
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Faiz_Ahmad_Faiz.jpg/250px-Faiz_Ahmad_Faiz.jpg"
+            alt="Portrait of Urdu poet Faiz Ahmed Faiz"
+            width="220">
+
+        <p>1911 - 1984</p>
+    </header>
+
+    <hr>
+
+    <nav>
+        <h2>Website Navigation</h2>
+        <a href="#about">About the Poet</a> |
+        <a href="#works">Literary Works</a> |
+        <a href="#poem">Favourite Poem</a> |
+        <a href="#sitemap">Sitemap</a>
+    </nav>
+
+    <hr>
+
+    <main>
+
+        <section id="about">
+            <h2>About the Poet</h2>
+
+            <p>
+                Faiz Ahmed Faiz was one of the most celebrated
+                Urdu poets of the twentieth century. Born in
+                Sialkot in 1911, he was known for combining
+                themes of love, social justice, and revolution
+                in his poetry. His literary works continue to
+                inspire readers across generations.
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="works">
+            <h2>Famous Literary Works</h2>
+
+            <p>Some of his famous works include:</p>
+
+            <ol>
+                <li>Naqsh-e-Faryadi</li>
+                <li>Dast-e-Saba</li>
+                <li>Zindan Nama</li>
+                <li>Dast-e-Tah-e-Sang</li>
+            </ol>
+
+            <h3>Other Contributions</h3>
+
+            <ul>
+                <li>Urdu poetry</li>
+                <li>Social and political writing</li>
+                <li>Literary essays</li>
+            </ul>
+
+            <p>
+                <a href="works.html">
+                    Read more about Faiz's literary works
+                </a>
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="poem">
+            <h2>My Favourite Poem</h2>
+
+            <h3>Mujh Se Pehli Si Mohabbat</h3>
+
+            <p>
+                My favourite poem by Faiz Ahmed Faiz is
+                "Mujh Se Pehli Si Mohabbat". This beautiful
+                nazm explores love, human suffering, and
+                social realities. I admire how Faiz connects
+                personal emotions with the problems of society.
+            </p>
+
+            <a href="https://www.rekhta.org/nazms/mujh-se-pahli-si-mohabbat-miri-mahbuub-na-maang-faiz-ahmad-faiz-nazms">
+                Read Mujh Se Pehli Si Mohabbat on Rekhta
+            </a>
+
+            <p>
+                <a href="https://www.rekhta.org/poets/faiz-ahmad-faiz">
+                    Explore Faiz Ahmed Faiz's poetry on Rekhta
+                </a>
+            </p>
+        </section>
+
+        <hr>
+
+        <section>
+            <h2>Image Ethics and Copyright</h2>
+
+            <p>
+                Images used on websites should respect the
+                rights of their creators. Before using an image,
+                we should check its copyright status and
+                permission requirements. We should give proper
+                credit to the creator when required and use
+                images that are licensed for our intended purpose.
+                The alt attribute also helps users who cannot
+                see the image understand its content.
+            </p>
+
+            <p>
+                The portrait above is linked from Wikimedia
+                Commons. Its individual file page should be
+                checked for the specific licence and attribution
+                requirements before publishing the website.
+            </p>
+
+            <a href="https://commons.wikimedia.org/">
+                Visit Wikimedia Commons to learn about image sources
+            </a>
+        </section>
+
+        <hr>
+
+        <section id="sitemap">
+            <h2>Website Sitemap</h2>
+
+            <p>
+                A sitemap shows the main pages or sections
+                of a website and how users can navigate them.
+                The following is the sitemap for my website:
+            </p>
+
+            <ul>
+                <li>Home - Faiz Ahmed Faiz</li>
+                <li>About the Poet</li>
+                <li>Famous Literary Works</li>
+                <li>My Favourite Poem</li>
+                <li>Image Ethics and Copyright</li>
+            </ul>
+
+            <h3>Sitemap Activity</h3>
+
+            <p>
+                The navigation menu above acts as a simple
+                sitemap for this webpage. Click any link in
+                the menu to move directly to the relevant
+                section. The link to works.html represents
+                a separate webpage.
+            </p>
+        </section>
+
+    </main>
+
+    <hr>
+
+    <footer>
+        <p>Created as an HTML assignment.</p>
+        <p>A tribute to my favourite poet, Faiz Ahmed Faiz.</p>
+
+        <a href="#top">Back to Top</a>
+    </footer>
+
+</body>
+</html>
